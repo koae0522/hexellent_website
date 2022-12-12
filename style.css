@@ -1,0 +1,47 @@
+body{
+    background-color:#2a2a2a ;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding :0;
+}
+
+.header{
+    text-align: center;
+    background-color: rgba(24, 23, 23, 0.575);
+}
+
+.header img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:350px;
+}
+
+nav ul{
+    list-style:none;
+}
+
+nav ul li{
+    margin-left:15%;
+    float:left;
+}
+
+.top img{
+    margin-top:20px ;
+    width:50%;
+    display: inline-block; 
+}
+
+.top h1{
+    display: inline-block; 
+    vertical-align:top;
+    margin-left: 50px ;
+    margin-top:75px;
+}
+
+
+.main{
+    margin-left:10%;
+    margin-right:10%;
+    text-align: center;
+    margin-top: 50px;;
+}
